@@ -52,3 +52,6 @@
 	conn.close()
 
 详细的pymysql操作：[http://www.jb51.net/article/92516.htm](http://www.jb51.net/article/92516.htm)
+
+----------
+如果本项目对你有用请给我一颗star，万分感谢。
